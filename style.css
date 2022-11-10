@@ -1,0 +1,54 @@
+/* Javier Florencio */
+
+body{
+	width: 900px;
+	margin: 50px auto
+}
+
+img{
+	width: 250px;
+	height: 160px;
+	object-fit: cover;
+}
+
+div{
+	/* display: inline-block; */
+	width: 250px;
+	margin: 10px 10px;
+	border: 1px solid black
+}
+
+p{
+	text-align: center;
+	text-transform: capitalize
+}
+
+div#girasol{
+	position: relative;
+	top: -170px;
+	left: 50px;
+}
+
+div#grass{
+	position: relative;
+	top: -340px;
+	left: 100px;
+}
+
+div#amapola{
+	position: relative;
+	top: -510px;
+	left: 150px;
+}
+
+div#greenhouse{
+	position: relative;
+	top: -680px;
+	left: 200px;
+}
+
+div#placas{
+	position: relative;
+	top: -850px;
+	left: 250px;
+}
